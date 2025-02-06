@@ -14,6 +14,7 @@
       "wss://relay.primal.net",
       "wss://relay.bitcoinpark.com",
       "wss://nostr.oxtr.dev",
+      ...
     ]
- }
+  }
 }
