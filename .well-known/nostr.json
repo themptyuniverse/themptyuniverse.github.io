@@ -15,4 +15,5 @@
       "wss://relay.bitcoinpark.com",
       "wss://nostr.oxtr.dev",
     ]
+ }
 }
