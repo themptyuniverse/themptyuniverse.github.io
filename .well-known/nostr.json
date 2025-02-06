@@ -1,19 +1,5 @@
  {
   "names": {
   "themptyuniverse": "f94362713ff95e37914b12d5d2067d83e314bebf1e5b49e9ff4371738c572090"
- },
-  "relays": {
-    "f94362713ff95e37914b12d5d2067d83e314bebf1e5b49e9ff4371738c572090": [
-      "wss://relay.damus.io",
-      "wss://purplerelay.com",
-      "wss://nos.lol",
-      "ws://mdat5qtkxnqj3tm5g7s7tqu22wgihrloen4ttqid5k6villeeqipf6id.onion",
-      "wss://relay.snort.social",
-      "wss://theforest.nostr1.com",
-      "wss://relay.mostr.pub",
-      "wss://relay.primal.net",
-      "wss://relay.bitcoinpark.com",
-      "wss://nostr.oxtr.dev",
-    ]
-  }
+ }
 }
